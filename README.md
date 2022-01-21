@@ -7,4 +7,4 @@ and follow along with the instructions
 
 ## TEAM MEMBERS:
 - Shady Bassily - shadybassily
-- Omar Akl - OmarAkl
+- Omar Akl - omartarekakl
