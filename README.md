@@ -8,3 +8,6 @@ and follow along with the instructions
 ## TEAM MEMBERS:
 - Shady Bassily - shadybassily
 - Omar Akl - omartarekakl
+
+## PRESENTATION LINK ON YOUTUBE
+https://youtu.be/jgF00Yru-Nw
